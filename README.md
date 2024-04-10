@@ -1,8 +1,8 @@
-## EtherStellar: Gas-Free Transactions for Everyone
+# EtherStellar: Gas-Free Transactions for Everyone
 
-**Tired of high gas fees slowing down your crypto adventures?**
+# Tired of high gas fees slowing down your crypto adventures?
 
-EtherStellar (STELLAR) is a new token built on Arbitrum, a super-fast and secure blockchain network.  **STELLAR lets you experience the freedom of gas-free transactions!**
+EtherStellar (STELLAR) is a new token built on **Arbitrum**, a super-fast and secure blockchain network.  **STELLAR lets you experience the freedom of gas-free transactions!**
 
 **Here's what makes EtherStellar stellar:**
 
